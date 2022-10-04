@@ -1,0 +1,26 @@
+
+
+/*Classes especificas para nosso site*/
+
+header.topo-site{
+    padding: 20px 0;
+}
+header.topo-site ul li{
+    position: relative;
+    top: 4px;
+    padding: 0 20px;
+    font-size: 17px;
+    display: inline-block;
+}
+
+header.topo-site a{
+    text-decoration: none;
+}
+
+
+.logo{
+    font-size: 22px;
+    font-family: Verdana;
+}
+
+
